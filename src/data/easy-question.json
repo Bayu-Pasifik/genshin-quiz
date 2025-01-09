@@ -1,0 +1,1143 @@
+[
+  {
+    "id": "1",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang alkemis terkenal di Mondstadt. Elemen yang kugunakan adalah Geo. Aku sering menghabiskan waktu di laboratoriumku di Knight of Favonius. Siapakah aku?",
+    "answer": "Albedo",
+    "hints": [
+      "Aku adalah Kepala Alkimia dan Kapten Tim Investigasi.",
+      "Aku senang melukis.",
+      "Senjataku adalah pedang."
+    ],
+    "image": "/assets/images/albedo.png"
+  },
+  {
+    "id": "2",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang scribe dari Akademiya yang tinggal di Sumeru. Elemen yang kugunakan adalah Dendro. Aku dikenal karena kecerdasanku dan suka membaca. Siapakah aku?",
+    "answer": "Alhaitham",
+    "hints": [
+      "Aku adalah seorang scribe.",
+      "Aku suka membaca.",
+      "Senjataku adalah pedang."
+    ],
+    "image": "/assets/images/alhaitham.png"
+  },
+  {
+    "id": "3",
+    "difficulty": "Mudah",
+    "question": "Aku berasal dari dunia lain dan dikenal sebagai pemburu yang ulung. Elemen yang kugunakan adalah Cryo. Aku memiliki kemampuan untuk mengendalikan mesin kuno. Siapakah aku?",
+    "answer": "Aloy",
+    "hints": [
+      "Aku adalah seorang pemburu.",
+      "Aku berasal dari dunia lain.",
+      "Senjataku adalah busur."
+    ],
+    "image": "/assets/images/aloy.png"
+  },
+  {
+    "id": "4",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang knight di Mondstadt yang bertugas sebagai outrider. Elemen yang kugunakan adalah Pyro. Aku dikenal karena keberanianku dan kecintaanku pada baron bunny. Siapakah aku?",
+    "answer": "Amber",
+    "hints": [
+      "Aku adalah outrider.",
+      "Aku suka baron bunny.",
+      "Senjataku adalah busur."
+    ],
+    "image": "/assets/images/amber.png"
+  },
+  {
+    "id": "5",
+    "difficulty": "Mudah",
+    "question": "Aku adalah pemimpin geng terkenal di Inazuma. Elemen yang kugunakan adalah Geo. Aku dikenal dengan kekuatan dan keberanianku. Siapakah aku?",
+    "answer": "Arataki Itto",
+    "hints": [
+      "Aku adalah pemimpin geng.",
+      "Aku memiliki tanduk.",
+      "Senjataku adalah claymore."
+    ],
+    "image": "/assets/images/arataki_itto.png"
+  },
+  {
+    "id": "6",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang anggota Fatui Harbinger yang dikenal dengan elemen Pyro dan senjata tongkat. Aku sering berperan sebagai pemimpin dan dikenal dengan sifat licik serta manipulatif. Siapakah aku?",
+    "answer": "Arlecchino",
+    "hints": [
+      "Aku adalah anggota Fatui Harbinger.",
+      "Elemen yang kugunakan adalah Pyro.",
+      "Aku sering berperan sebagai pemimpin."
+    ],
+    "image": "/assets/images/arlecchino.png"
+  },
+  {
+    "id": "7",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang dokter dari Liyue yang memiliki pengetahuan luas tentang herbal dan pengobatan. Elemen yang kugunakan adalah Dendro. Siapakah aku?",
+    "answer": "Baizhu",
+    "hints": [
+      "Aku adalah seorang dokter.",
+      "Aku memiliki ular bernama Changsheng.",
+      "Senjataku adalah catalyst."
+    ],
+    "image": "/assets/images/baizhu.png"
+  },
+  {
+    "id": "8",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang deaconess di Mondstadt yang juga seorang idol. Elemen yang kugunakan adalah Hydro. Siapakah aku?",
+    "answer": "Barbara",
+    "hints": [
+      "Aku adalah seorang deaconess.",
+      "Aku senang bernyanyi.",
+      "Senjataku adalah catalyst."
+    ],
+    "image": "/assets/images/barbara.png"
+  },
+  {
+    "id": "9",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang kapten kapal yang dikenal karena keahlianku dalam bertarung di laut. Elemen yang kugunakan adalah Electro. Siapakah aku?",
+    "answer": "Beidou",
+    "hints": [
+      "Aku adalah seorang kapten kapal.",
+      "Aku senang berpetualang di laut.",
+      "Senjataku adalah claymore."
+    ],
+    "image": "/assets/images/beidou.png"
+  },
+  {
+    "id": "10",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang petualang muda dari Mondstadt yang memiliki keberuntungan buruk. Elemen yang kugunakan adalah Pyro. Siapakah aku?",
+    "answer": "Bennett",
+    "hints": [
+      "Aku adalah seorang petualang.",
+      "Aku memiliki keberuntungan buruk.",
+      "Senjataku adalah pedang."
+    ],
+    "image": "/assets/images/bennett.png"
+  },
+
+  {
+    "id": "11",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang penjaga oasis di Sumeru yang menggunakan senjata tombak dan memiliki kemampuan Hydro. Aku dikenal dengan dedikasi dan keberanianku dalam melindungi desaku. Siapakah aku?",
+    "answer": "Candace",
+    "hints": [
+      "Aku adalah penjaga oasis.",
+      "Aku menggunakan tombak.",
+      "Elemanku adalah Hydro."
+    ],
+    "image": "/assets/images/candace.png"
+  },
+  {
+    "id": "12",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang jurnalis yang menyelidiki berita-berita di Teyvat. Identitasku sering dirahasiakan karena pekerjaanku. Siapakah aku?",
+    "answer": "Charlotte",
+    "hints": [
+      "Aku adalah jurnalis.",
+      "Aku menyelidiki berita.",
+      "Identitasku sering dirahasiakan."
+    ],
+    "image": "/assets/images/charlotte.png"
+  },
+  {
+    "id": "13",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang pejuang dari Natlan yang dikenal sebagai Peacemaker dari Tlalocan. Aku menggunakan senjata panah dan memiliki kemampuan Anemo. Aku sering berusaha menyelesaikan konflik dengan keberanian dan kebijaksanaanku. Siapakah aku?",
+    "answer": "Chasca",
+    "hints": [
+      "Aku adalah pejuang dari Natlan.",
+      "Aku dikenal sebagai Peacemaker dari Tlalocan.",
+      "Elemanku adalah Anemo."
+    ],
+    "image": "/assets/images/chasca.png"
+  },
+  {
+    "id": "14",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang penjaga kuil yang mahir dalam seni bela diri. Elemen yang kugunakan adalah Electro. Siapakah aku?",
+    "answer": "Chevreuse",
+    "hints": [
+      "Aku adalah penjaga kuil.",
+      "Aku mahir dalam seni bela diri.",
+      "Elemanku adalah Electro."
+    ],
+    "image": "/assets/images/chevreuse.png"
+  },
+  {
+    "id": "15",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang penari terkenal dari Inazuma yang menggunakan elemen Hydro dalam penampilanku. Siapakah aku?",
+    "answer": "Chiori",
+    "hints": [
+      "Aku adalah penari.",
+      "Aku berasal dari Inazuma.",
+      "Elemenku adalah Hydro."
+    ],
+    "image": "/assets/images/chiori.png"
+  },
+  {
+    "id": "16",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang exorcist dari Liyue yang memiliki kemampuan Cryo. Aku sering berusaha mengusir roh jahat dengan tekun. Siapakah aku?",
+    "answer": "Chongyun",
+    "hints": [
+      "Aku adalah exorcist.",
+      "Aku berasal dari Liyue.",
+      "Elemanku adalah Cryo."
+    ],
+    "image": "/assets/images/chongyun.png"
+  },
+  {
+    "id": "17",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang gadis dari Natlan yang dikenal sebagai Granny Itztli. Aku adalah seorang shaman yang mahir dalam memprediksi masa depan dan menggunakan elemen Cryo. Aku sering berada di sekitar orang-orang yang mencari petunjuk tentang masa depan mereka. Siapakah aku?",
+    "answer": "Citlali",
+    "hints": [
+      "Aku adalah gadis dari Natlan.",
+      "Aku dikenal sebagai Granny Itztli.",
+      "Elemanku adalah Cryo."
+    ],
+    "image": "/assets/images/citlali.png"
+  },
+  {
+    "id": "18",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang duelista terkenal yang sering terlihat di Fontaine. Elemen yang kugunakan belum banyak diketahui orang. Siapakah aku?",
+    "answer": "Clorinde",
+    "hints": [
+      "Aku adalah duelista.",
+      "Aku sering terlihat di Fontaine.",
+      "Elemanku belum banyak diketahui."
+    ],
+    "image": "/assets/images/clorinde.png"
+  },
+  {
+    "id": "19",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang penjaga hutan di Sumeru yang menggunakan elemen Dendro. Aku dikenal karena sifat penyayangku terhadap makhluk hidup. Siapakah aku?",
+    "answer": "Collei",
+    "hints": [
+      "Aku adalah penjaga hutan.",
+      "Aku berasal dari Sumeru.",
+      "Elemanku adalah Dendro."
+    ],
+    "image": "/assets/images/collei.png"
+  },
+  {
+    "id": "20",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang jenderal di Sumeru yang menggunakan elemen Electro. Aku dikenal dengan kekuatan dan keberanianku dalam pertempuran. Siapakah aku?",
+    "answer": "Cyno",
+    "hints": [
+      "Aku adalah jenderal.",
+      "Aku berasal dari Sumeru.",
+      "Elemanku adalah Electro."
+    ],
+    "image": "/assets/images/cyno.png"
+  },
+  {
+    "id": "21",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang mercenary dari Sumeru yang dikenal sebagai \"Flame-Mane\". Elemen yang kugunakan adalah Pyro. Aku terkenal karena kekuatanku dan keterampilanku dalam bertarung. Siapakah aku?",
+    "answer": "Dehya",
+    "hints": [
+      "Aku adalah seorang mercenary.",
+      "Aku dikenal sebagai \"Flame-Mane\".",
+      "Elemanku adalah Pyro."
+    ],
+    "image": "/assets/images/dehya.png"
+  },
+  {
+    "id": "22",
+    "difficulty": "Mudah",
+    "question": "Aku adalah pemilik Dawn Winery dan dikenal sebagai pahlawan malam di Mondstadt. Elemen yang kugunakan adalah Pyro. Aku dikenal dengan kekuatan dan dedikasiku untuk melindungi Mondstadt. Siapakah aku?",
+    "answer": "Diluc",
+    "hints": [
+      "Aku adalah pemilik Dawn Winery.",
+      "Aku adalah pahlawan malam.",
+      "Elemanku adalah Pyro."
+    ],
+    "image": "/assets/images/diluc.png"
+  },
+  {
+    "id": "23",
+    "difficulty": "Mudah",
+    "question": "Aku adalah bartender dari Mondstadt yang bekerja di Cat's Tail. Elemen yang kugunakan adalah Cryo. Aku dikenal dengan minuman buatanku yang terkenal. Siapakah aku?",
+    "answer": "Diona",
+    "hints": [
+      "Aku adalah bartender di Cat's Tail.",
+      "Elemanku adalah Cryo.",
+      "Aku dikenal dengan minuman buatanku."
+    ],
+    "image": "/assets/images/diona.png"
+  },
+  {
+    "id": "24",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang pedagang dari Sumeru yang dikenal karena kekayaanku dan kemampuan untuk mendapatkan barang-barang langka. Elemen yang kugunakan adalah Electro. Siapakah aku?",
+    "answer": "Dori",
+    "hints": [
+      "Aku adalah seorang pedagang.",
+      "Aku berasal dari Sumeru.",
+      "Elemanku adalah Electro."
+    ],
+    "image": "/assets/images/dori.png"
+  },
+  {
+    "id": "25",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang petualang yang terkenal di seluruh Teyvat karena kecerdasan dan kecakapanku. Elemen yang kugunakan adalah Anemo. Siapakah aku?",
+    "answer": "Emilie",
+    "hints": [
+      "Aku adalah seorang petualang.",
+      "Aku terkenal di seluruh Teyvat.",
+      "Elemanku adalah Anemo."
+    ],
+    "image": "/assets/images/emilie.png"
+  },
+  {
+    "id": "26",
+    "difficulty": "Mudah",
+    "question": "Aku adalah kapten dari Reconnaissance Company di Knights of Favonius. Elemen yang kugunakan adalah Cryo. Aku dikenal dengan kebanggaanku dan keterampilan bertarungku. Siapakah aku?",
+    "answer": "Eula",
+    "hints": [
+      "Aku adalah kapten dari Reconnaissance Company.",
+      "Elemanku adalah Cryo.",
+      "Aku dikenal dengan kebanggaanku."
+    ],
+    "image": "/assets/images/eula.png"
+  },
+  {
+    "id": "27",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang profesor dari Sumeru Akademiya yang dikenal dengan pengetahuanku tentang mekanika dan arsitektur kuno. Elemen yang kugunakan adalah Anemo. Siapakah aku?",
+    "answer": "Faruzan",
+    "hints": [
+      "Aku adalah profesor di Sumeru Akademiya.",
+      "Aku ahli dalam mekanika dan arsitektur kuno.",
+      "Elemanku adalah Anemo."
+    ],
+    "image": "/assets/images/faruzan.png"
+  },
+
+  {
+    "id": "28",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang penyelidik eksentrik dari Adventurers' Guild yang menggunakan elemen Electro. Aku dikenal dengan gelar \"Prinzessin der Verurteilung\" dan sering ditemani oleh burung gagakku, Oz. Siapakah aku?",
+    "answer": "Fischl",
+    "hints": [
+      "Aku adalah penyelidik dari Adventurers' Guild.",
+      "Elemanku adalah Electro.",
+      "Aku dikenal sebagai \"Prinzessin der Verurteilung\"."
+    ],
+    "image": "/assets/images/fischl.png"
+  },
+
+  {
+    "id": "29",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang penyelam handal dari Fontaine yang memiliki kemampuan Hydro. Aku dikenal dengan keterampilanku dalam menjelajahi laut dan mencari harta karun bawah laut. Siapakah aku?",
+    "answer": "Freminet",
+    "hints": [
+      "Aku adalah penyelam handal.",
+      "Aku berasal dari Fontaine.",
+      "Elemanku adalah Hydro."
+    ],
+    "image": "/assets/images/freminet.png"
+  },
+  {
+    "id": "30",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang bangsawan dari Fontaine yang dikenal dengan kecerdasanku dan kemampuan memanipulasi Hydro. Aku sering terlibat dalam urusan politik dan sosial di Fontaine. Siapakah aku?",
+    "answer": "Furina",
+    "hints": [
+      "Aku adalah seorang bangsawan dari Fontaine.",
+      "Elemanku adalah Hydro.",
+      "Aku terlibat dalam urusan politik dan sosial."
+    ],
+    "image": "/assets/images/furina.png"
+  },
+
+  {
+    "id": "31",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang pemain game yang terkenal dengan keahlianku dalam berbagai permainan. Aku sering berbagi tips dan trik kepada para penggemar game di seluruh dunia. Siapakah aku?",
+    "answer": "Gaming",
+    "hints": [
+      "Aku adalah seorang pemain game.",
+      "Aku terkenal dengan keahlianku.",
+      "Aku sering berbagi tips dan trik."
+    ],
+    "image": "/assets/images/gaming.png"
+  },
+  {
+    "id": "32",
+    "difficulty": "Mudah",
+    "question": "Aku adalah sekretaris dari Liyue Qixing yang menggunakan elemen Cryo dan senjata busur. Aku dikenal dengan dedikasiku dan kemampuanku dalam mengelola urusan Liyue. Siapakah aku?",
+    "answer": "Ganyu",
+    "hints": [
+      "Aku adalah sekretaris dari Liyue Qixing.",
+      "Elemanku adalah Cryo.",
+      "Senjataku adalah busur.",
+      "Aku terkenal dengan dedikasiku."
+    ],
+    "image": "/assets/images/ganyu.png"
+  },
+  {
+    "id": "33",
+    "difficulty": "Mudah",
+    "question": "Aku adalah jenderal dari Sangonomiya Resistance yang menggunakan elemen Geo. Aku terkenal dengan kepemimpinanku dalam pertempuran di Inazuma. Siapakah aku?",
+    "answer": "Gorou",
+    "hints": [
+      "Aku adalah jenderal dari Sangonomiya Resistance.",
+      "Elemanku adalah Geo.",
+      "Aku berasal dari Inazuma.",
+      "Aku terkenal dengan kepemimpinanku."
+    ],
+    "image": "/assets/images/gorou.png"
+  },
+  {
+    "id": "34",
+    "difficulty": "Mudah",
+    "question": "Aku adalah direktur dari Wangsheng Funeral Parlor yang menggunakan elemen Pyro. Aku terkenal dengan kepribadianku yang unik dan keterampilanku dalam bertarung. Siapakah aku?",
+    "answer": "Hu Tao",
+    "hints": [
+      "Aku adalah direktur dari Wangsheng Funeral Parlor.",
+      "Elemanku adalah Pyro.",
+      "Aku terkenal dengan kepribadianku yang unik.",
+      "Aku mahir dalam bertarung."
+    ],
+    "image": "/assets/images/hu_tao.png"
+  },
+  {
+    "id": "35",
+    "difficulty": "Mudah",
+    "question": "Aku adalah Acting Grand Master dari Knights of Favonius yang menggunakan elemen Anemo. Aku dikenal dengan dedikasi dan kepemimpinanku dalam melindungi Mondstadt. Siapakah aku?",
+    "answer": "Jean",
+    "hints": [
+      "Aku adalah Acting Grand Master dari Knights of Favonius.",
+      "Elemanku adalah Anemo.",
+      "Aku berasal dari Mondstadt.",
+      "Aku terkenal dengan dedikasi dan kepemimpinanku."
+    ],
+    "image": "/assets/images/jean.png"
+  },
+  {
+    "id": "36",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang warrior dari Sumeru yang menggunakan elemen Electro. Aku dikenal dengan kekuatanku dalam bertarung dan dedikasiku untuk melindungi desaku. Siapakah aku?",
+    "answer": "Kachina",
+    "hints": [
+      "Aku adalah warrior dari Sumeru.",
+      "Elemanku adalah Electro.",
+      "Aku terkenal dengan kekuatanku.",
+      "Aku melindungi desaku."
+    ],
+    "image": "/assets/images/kachina.png"
+  },
+  {
+    "id": "37",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang ronin dari Inazuma yang menggunakan elemen Anemo. Aku terkenal dengan ketangkasanku dan kebijaksanaanku dalam pertempuran. Siapakah aku?",
+    "answer": "Kazuha",
+    "hints": [
+      "Aku adalah ronin dari Inazuma.",
+      "Elemanku adalah Anemo.",
+      "Aku terkenal dengan ketangkasanku.",
+      "Aku bijaksana dalam pertempuran."
+    ],
+    "image": "/assets/images/kazuha.png"
+  },
+  {
+    "id": "38",
+    "difficulty": "Mudah",
+    "question": "Aku adalah Cavalry Captain dari Knights of Favonius yang menggunakan elemen Cryo. Aku dikenal dengan kecerdasanku dan keterampilanku dalam bertarung. Siapakah aku?",
+    "answer": "Kaeya",
+    "hints": [
+      "Aku adalah Cavalry Captain dari Knights of Favonius.",
+      "Elemanku adalah Cryo.",
+      "Aku berasal dari Mondstadt.",
+      "Aku terkenal dengan kecerdasanku."
+    ],
+    "image": "/assets/images/kaeya.png"
+  },
+  {
+    "id": "39",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang bangsawan dari Klan Kamisato di Inazuma yang menggunakan elemen Cryo. Aku terkenal dengan kecantikanku dan keterampilanku dalam bertarung. Siapakah aku?",
+    "answer": "Ayaka",
+    "hints": [
+      "Aku adalah bangsawan dari Klan Kamisato.",
+      "Elemanku adalah Cryo.",
+      "Aku berasal dari Inazuma.",
+      "Aku terkenal dengan kecantikanku."
+    ],
+    "image": "/assets/images/ayaka.png"
+  },
+  {
+    "id": "40",
+    "difficulty": "Mudah",
+    "question": "Aku adalah Kepala Klan Kamisato dan Komisaris Yashiro yang menggunakan elemen Hydro. Aku dikenal dengan kecerdasanku dan keterampilanku dalam memimpin. Siapakah aku?",
+    "answer": "Ayato",
+    "hints": [
+      "Aku adalah Kepala Klan Kamisato.",
+      "Elemanku adalah Hydro.",
+      "Aku berasal dari Inazuma.",
+      "Aku terkenal dengan kecerdasanku."
+    ],
+    "image": "/assets/images/ayato.png"
+  },
+
+  {
+    "id": "41",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang arsitek dari Sumeru yang dikenal dengan keahlianku dalam merancang bangunan indah. Elemen yang kugunakan adalah Dendro. Aku terkenal dengan kreativitas dan kepedulianku pada lingkungan. Siapakah aku?",
+    "answer": "Kaveh",
+    "hints": [
+      "Aku adalah arsitek dari Sumeru.",
+      "Elemanku adalah Dendro.",
+      "Aku terkenal dengan kreativitasku."
+    ],
+    "image": "/assets/images/kaveh.png"
+  },
+  {
+    "id": "42",
+    "difficulty": "Mudah",
+    "question": "Aku adalah Yuheng dari Liyue Qixing yang menggunakan elemen Electro. Aku dikenal dengan efisiensi dan dedikasi dalam menjalankan tugas-tugasku di Liyue. Siapakah aku?",
+    "answer": "Keqing",
+    "hints": [
+      "Aku adalah Yuheng dari Liyue Qixing.",
+      "Elemanku adalah Electro.",
+      "Aku dikenal dengan efisiensiku."
+    ],
+    "image": "/assets/images/keqing.png"
+  },
+  {
+    "id": "43",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang penjaga kuil dari Natlan yang dikenal dengan kemampuan penyembuhanku. Elemen yang kugunakan adalah Dendro. Aku sering membantu orang-orang yang membutuhkan bantuan medis. Siapakah aku?",
+    "answer": "Kinich",
+    "hints": [
+      "Aku adalah penjaga kuil dari Natlan.",
+      "Elemanku adalah Dendro.",
+      "Aku dikenal dengan kemampuan penyembuhanku."
+    ],
+    "image": "/assets/images/kinich.png"
+  },
+  {
+    "id": "44",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang kurir dari Inazuma yang menggunakan elemen Anemo. Aku dikenal dengan kecepatan dan ketepatanku dalam mengantarkan barang-barang. Siapakah aku?",
+    "answer": "Kirara",
+    "hints": [
+      "Aku adalah kurir dari Inazuma.",
+      "Elemanku adalah Anemo.",
+      "Aku terkenal dengan kecepatanku."
+    ],
+    "image": "/assets/images/kirara.png"
+  },
+  {
+    "id": "45",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang gadis kecil dari Mondstadt yang menggunakan elemen Pyro. Aku terkenal dengan keceriaanku dan kecintaanku pada ledakan. Siapakah aku?",
+    "answer": "Klee",
+    "hints": [
+      "Aku adalah gadis kecil dari Mondstadt.",
+      "Elemanku adalah Pyro.",
+      "Aku terkenal dengan keceriaanku."
+    ],
+    "image": "/assets/images/klee.png"
+  },
+  {
+    "id": "46",
+    "difficulty": "Mudah",
+    "question": "Aku adalah jenderal dari Tenryou Commission yang menggunakan elemen Electro. Aku terkenal dengan kesetiaanku kepada Shogun dan keterampilanku dalam bertarung. Siapakah aku?",
+    "answer": "Kujou Sara",
+    "hints": [
+      "Aku adalah jenderal dari Tenryou Commission.",
+      "Elemanku adalah Electro.",
+      "Aku terkenal dengan kesetiaanku kepada Shogun."
+    ],
+    "image": "/assets/images/kujou_sara.png"
+  },
+  {
+    "id": "47",
+    "difficulty": "Mudah",
+    "question": "Aku adalah wakil kepala geng Arataki dan mantan siswa hukum yang menggunakan elemen Electro. Aku dikenal dengan keterampilanku dalam bertarung dan pengetahuanku tentang hukum. Siapakah aku?",
+    "answer": "Kuki Shinobu",
+    "hints": [
+      "Aku adalah wakil kepala geng Arataki.",
+      "Elemanku adalah Electro.",
+      "Aku mantan siswa hukum."
+    ],
+    "image": "/assets/images/kuki_shinobu.png"
+  },
+  {
+    "id": "48",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang mahasiswa di Sumeru Akademiya yang menggunakan elemen Cryo. Aku dikenal dengan keinginanku untuk belajar dan kemampuan mengatasi insomnia. Siapakah aku?",
+    "answer": "Layla",
+    "hints": [
+      "Aku adalah mahasiswa di Sumeru Akademiya.",
+      "Elemanku adalah Cryo.",
+      "Aku dikenal dengan keinginanku untuk belajar."
+    ],
+    "image": "/assets/images/layla.png"
+  },
+  {
+    "id": "49",
+    "difficulty": "Mudah",
+    "question": "Aku adalah pustakawan di Knights of Favonius yang menggunakan elemen Electro. Aku terkenal dengan pengetahuanku yang luas dan kemampuan magisku. Siapakah aku?",
+    "answer": "Lisa",
+    "hints": [
+      "Aku adalah pustakawan di Knights of Favonius.",
+      "Elemanku adalah Electro.",
+      "Aku terkenal dengan pengetahuanku yang luas."
+    ],
+    "image": "/assets/images/lisa.png"
+  },
+  {
+    "id": "50",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang asisten ilusionis dari Fontaine yang menggunakan elemen Anemo. Aku dikenal dengan kemampuan ilusi dan kecepatan tanganku. Siapakah aku?",
+    "answer": "Lynette",
+    "hints": [
+      "Aku adalah asisten ilusionis dari Fontaine.",
+      "Elemanku adalah Anemo.",
+      "Aku terkenal dengan kemampuan ilusi."
+    ],
+    "image": "/assets/images/lynette.png"
+  },
+
+  {
+    "id": "51",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang pesulap terkenal dari Fontaine yang menggunakan elemen Pyro. Aku dikenal dengan trik-trikku yang memukau dan kemampuanku dalam menyihir penonton. Siapakah aku?",
+    "answer": "Lyney",
+    "hints": [
+      "Aku adalah pesulap dari Fontaine.",
+      "Elemanku adalah Pyro.",
+      "Aku dikenal dengan trik-trikku."
+    ],
+    "image": "/assets/images/lyney.png"
+  },
+  {
+    "id": "52",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang karakter Pyro dari Natlan yang dikenal dengan kemampuan sihirku yang luar biasa dan elemen yang kugunakan adalah Pyro. Aku juga dikenal sebagai Archon Pyro yang memerintah Natlan. Siapakah aku?",
+    "answer": "Mavuika",
+    "hints": [
+      "Aku adalah karakter Pyro dari Natlan.",
+      "Elemanku adalah Pyro.",
+      "Aku adalah Archon Pyro.",
+      "Aku memerintah Natlan."
+    ],
+    "image": "/assets/images/mavuika.png"
+  },
+  {
+    "id": "53",
+    "difficulty": "Mudah",
+    "question": "Aku adalah anggota Reconnaissance Company dari Knights of Favonius yang menggunakan elemen Cryo. Aku dikenal dengan dedikasiku dalam melindungi Mondstadt. Siapakah aku?",
+    "answer": "Mika",
+    "hints": [
+      "Aku adalah anggota Reconnaissance Company dari Knights of Favonius.",
+      "Elemanku adalah Cryo.",
+      "Aku berasal dari Mondstadt."
+    ],
+    "image": "/assets/images/mika.png"
+  },
+  {
+    "id": "54",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang astrolog dari Mondstadt yang menggunakan elemen Hydro. Aku dikenal dengan kemampuanku dalam meramalkan nasib dan masa depan. Siapakah aku?",
+    "answer": "Mona",
+    "hints": [
+      "Aku adalah astrolog dari Mondstadt.",
+      "Elemanku adalah Hydro.",
+      "Aku meramalkan nasib dan masa depan."
+    ],
+    "image": "/assets/images/mona.png"
+  },
+  {
+    "id": "55",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang prajurit dari Natlan yang menggunakan elemen Hydro. Aku dikenal dengan keterampilan bertarungku yang cepat dan lincah. Siapakah aku?",
+    "answer": "Mualani",
+    "hints": [
+      "Aku adalah prajurit dari Natlan.",
+      "Elemanku adalah Hydro.",
+      "Aku dikenal dengan keterampilan bertarungku.",
+      "Aku cepat dan lincah."
+    ],
+    "image": "/assets/images/mualani.png"
+  },
+  {
+    "id": "56",
+    "difficulty": "Mudah",
+    "question": "Aku adalah Archon Dendro yang dikenal dengan nama Lesser Lord Kusanali dan berasal dari Sumeru. Aku dikenal dengan kebijaksanaanku dan kemampuan dalam mengendalikan elemen Dendro. Siapakah aku?",
+    "answer": "Nahida",
+    "hints": [
+      "Aku adalah Archon Dendro.",
+      "Elemanku adalah Dendro.",
+      "Aku dikenal dengan kebijaksanaanku."
+    ],
+    "image": "/assets/images/nahida.png"
+  },
+  {
+    "id": "57",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang bangsawan di Fontaine yang menggunakan elemen Geo. Aku dikenal dengan keberanianku dan kemampuanku dalam memimpin. Siapakah aku?",
+    "answer": "Navia",
+    "hints": [
+      "Aku adalah bangsawan di Fontaine.",
+      "Elemanku adalah Geo.",
+      "Aku dikenal dengan keberanianku.",
+      "Aku mahir dalam memimpin."
+    ],
+    "image": "/assets/images/navia.png"
+  },
+  {
+    "id": "58",
+    "difficulty": "Mudah",
+    "question": "Aku adalah Chief Justice dari Fontaine yang menggunakan elemen Hydro. Aku dikenal dengan kecerdasanku dan kemampuanku dalam menegakkan keadilan. Siapakah aku?",
+    "answer": "Neuvillette",
+    "hints": [
+      "Aku adalah Chief Justice dari Fontaine.",
+      "Elemanku adalah Hydro.",
+      "Aku dikenal dengan kecerdasanku."
+    ],
+    "image": "/assets/images/neuvillette.png"
+  },
+  {
+    "id": "59",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang penari dari Sumeru yang menggunakan elemen Hydro. Aku dikenal dengan tarianku yang anggun dan keindahanku. Siapakah aku?",
+    "answer": "Nilou",
+    "hints": [
+      "Aku adalah penari dari Sumeru.",
+      "Elemanku adalah Hydro.",
+      "Aku dikenal dengan tarianku."
+    ],
+    "image": "/assets/images/nilou.png"
+  },
+  {
+    "id": "60",
+    "difficulty": "Mudah",
+    "question": "Aku adalah Tianquan dari Liyue Qixing yang menggunakan elemen Geo. Aku dikenal dengan kebijaksanaanku dan kemampuanku dalam memimpin Liyue. Siapakah aku?",
+    "answer": "Ningguang",
+    "hints": [
+      "Aku adalah Tianquan dari Liyue Qixing.",
+      "Elemanku adalah Geo.",
+      "Aku berasal dari Liyue."
+    ],
+    "image": "/assets/images/ningguang.png"
+  },
+
+  {
+    "id": "61",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang maid dari Knights of Favonius yang menggunakan elemen Geo. Aku dikenal dengan tekadku untuk menjadi seorang kesatria yang hebat. Siapakah aku?",
+    "answer": "Noelle",
+    "hints": [
+      "Aku adalah maid dari Knights of Favonius.",
+      "Elemanku adalah Geo.",
+      "Aku dikenal dengan tekadku."
+    ],
+    "image": "/assets/images/noelle.png"
+  },
+  {
+    "id": "62",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang karakter baru yang dikenal dengan kemampuan sihirku yang luar biasa dan elemen yang kugunakan adalah Electro. Siapakah aku?",
+    "answer": "Ororon",
+    "hints": [
+      "Aku adalah karakter baru.",
+      "Elemanku adalah Electro.",
+      "Aku dikenal dengan kemampuan sihirku."
+    ],
+    "image": "/assets/images/ororon.png"
+  },
+  {
+    "id": "63",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang zombie kecil yang bekerja di Bubu Pharmacy dan menggunakan elemen Cryo. Aku dikenal dengan sikapku yang tenang dan keterampilanku dalam penyembuhan. Siapakah aku?",
+    "answer": "Qiqi",
+    "hints": [
+      "Aku adalah zombie kecil.",
+      "Aku bekerja di Bubu Pharmacy.",
+      "Elemanku adalah Cryo."
+    ],
+    "image": "/assets/images/qiqi.png"
+  },
+  {
+    "id": "64",
+    "difficulty": "Mudah",
+    "question": "Aku adalah Electro Archon dan pemimpin dari Inazuma yang menggunakan elemen Electro. Aku dikenal dengan kebijaksanaanku dan kekuatanku yang besar. Siapakah aku?",
+    "answer": "Raiden Shogun",
+    "hints": [
+      "Aku adalah Electro Archon.",
+      "Aku pemimpin Inazuma.",
+      "Elemanku adalah Electro."
+    ],
+    "image": "/assets/images/raiden_shogun.png"
+  },
+  {
+    "id": "65",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang anak yatim piatu yang dibesarkan oleh serigala di Wolvendom dan menggunakan elemen Electro. Aku dikenal dengan kekuatan fisikku yang luar biasa dan kemampuanku dalam bertarung. Siapakah aku?",
+    "answer": "Razor",
+    "hints": [
+      "Aku adalah anak yatim piatu.",
+      "Aku dibesarkan oleh serigala.",
+      "Elemanku adalah Electro."
+    ],
+    "image": "/assets/images/razor.png"
+  },
+  {
+    "id": "66",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang suster dari Mondstadt yang menggunakan elemen Cryo. Aku dikenal dengan sikapku yang dingin dan kemampuanku dalam bertarung. Siapakah aku?",
+    "answer": "Rosaria",
+    "hints": [
+      "Aku adalah suster dari Mondstadt.",
+      "Elemanku adalah Cryo.",
+      "Aku dikenal dengan sikapku yang dingin."
+    ],
+    "image": "/assets/images/rosaria.png"
+  },
+  {
+    "id": "67",
+    "difficulty": "Mudah",
+    "question": "Aku adalah pemimpin dari Sangonomiya Resistance dan pendeta besar di Watatsumi Island yang menggunakan elemen Hydro. Aku dikenal dengan kepemimpinanku dan kemampuan strategisku. Siapakah aku?",
+    "answer": "Sangonomiya Kokomi",
+    "hints": [
+      "Aku adalah pemimpin dari Sangonomiya Resistance.",
+      "Aku pendeta besar di Watatsumi Island.",
+      "Elemanku adalah Hydro."
+    ],
+    "image": "/assets/images/sangonomiya_kokomi.png"
+  },
+  {
+    "id": "68",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang ninja dari Shuumatsuban yang menggunakan elemen Anemo. Aku dikenal dengan kemampuanku yang luar biasa dalam penyergapan dan penyamaran. Siapakah aku?",
+    "answer": "Sayu",
+    "hints": [
+      "Aku adalah ninja dari Shuumatsuban.",
+      "Elemanku adalah Anemo.",
+      "Aku mahir dalam penyergapan."
+    ],
+    "image": "/assets/images/sayu.png"
+  },
+  {
+    "id": "69",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang prajurit dari Sumeru yang menggunakan elemen Dendro. Aku dikenal dengan kemampuanku dalam mengendalikan tanaman dan hewan. Siapakah aku?",
+    "answer": "Sethos",
+    "hints": [
+      "Aku adalah prajurit dari Sumeru.",
+      "Elemanku adalah Dendro.",
+      "Aku mahir mengendalikan tanaman."
+    ],
+    "image": "/assets/images/sethos.png"
+  },
+  {
+    "id": "70",
+    "difficulty": "Mudah",
+    "question": "Aku adalah seorang murid dari Adeptus Cloud Retainer yang menggunakan elemen Cryo. Aku dikenal dengan kekuatan fisikku yang luar biasa dan kemampuan bertarungku. Siapakah aku?",
+    "answer": "Shenhe",
+    "hints": [
+      "Aku adalah murid dari Adeptus Cloud Retainer.",
+      "Elemanku adalah Cryo.",
+      "Aku terkenal dengan kekuatanku."
+    ],
+    "image": "/assets/images/shenhe.png"
+  },
+
+  
+    {
+      "id": "71",
+      "difficulty": "Mudah",
+      "question": "Aku adalah seorang detektif dari Inazuma yang menggunakan elemen Anemo. Aku dikenal dengan kecerdasanku dan kemampuan analisis yang tajam. Siapakah aku?",
+      "answer": "Heizou",
+      "hints": [
+        "Aku adalah detektif dari Inazuma.",
+        "Elemanku adalah Anemo.",
+        "Aku dikenal dengan kecerdasanku."
+      ],
+      "image": "/assets/images/heizou.png"
+    },
+    {
+      "id": "72",
+      "difficulty": "Mudah",
+      "question": "Aku adalah seorang dokter dari Fontaine yang menggunakan elemen Hydro. Aku dikenal dengan kemampuan penyembuhanku dan dedikasiku untuk kesehatan masyarakat. Siapakah aku?",
+      "answer": "Sigewinne",
+      "hints": [
+        "Aku adalah dokter dari Fontaine.",
+        "Elemanku adalah Hydro.",
+        "Aku dikenal dengan kemampuan penyembuhanku."
+      ],
+      "image": "/assets/images/sigewinne.png"
+    },
+    {
+      "id": "73",
+      "difficulty": "Mudah",
+      "question": "Aku adalah seorang alkemis dari Mondstadt yang menggunakan elemen Anemo. Aku dikenal dengan rasa ingin tahuku dan eksperimen-eksperimenku yang inovatif. Siapakah aku?",
+      "answer": "Sucrose",
+      "hints": [
+        "Aku adalah alkemis dari Mondstadt.",
+        "Elemanku adalah Anemo.",
+        "Aku dikenal dengan rasa ingin tahuku."
+      ],
+      "image": "/assets/images/sucrose.png"
+    },
+    {
+      "id": "74",
+      "difficulty": "Mudah",
+      "question": "Aku adalah anggota Fatui Harbingers yang dikenal sebagai Childe dan menggunakan elemen Hydro. Aku terkenal dengan keterampilanku dalam bertarung dan kemampuanku dalam menggunakan berbagai senjata. Siapakah aku?",
+      "answer": "Tartaglia",
+      "hints": [
+        "Aku adalah anggota Fatui Harbingers.",
+        "Elemanku adalah Hydro.",
+        "Aku dikenal sebagai Childe."
+      ],
+      "image": "/assets/images/tartaglia.png"
+    },
+    {
+      "id": "75",
+      "difficulty": "Mudah",
+      "question": "Aku adalah seorang pelindung di Inazuma yang menggunakan elemen Pyro. Aku dikenal dengan kesetiaanku dan kemampuan bertarungku yang kuat. Siapakah aku?",
+      "answer": "Thoma",
+      "hints": [
+        "Aku adalah pelindung di Inazuma.",
+        "Elemanku adalah Pyro.",
+        "Aku dikenal dengan kesetiaanku."
+      ],
+      "image": "/assets/images/thoma.png"
+    },
+    {
+      "id": "76",
+      "difficulty": "Mudah",
+      "question": "Aku adalah seorang penjaga hutan dari Sumeru yang menggunakan elemen Dendro. Aku dikenal dengan kecintaanku pada alam dan pengetahuan mendalam tentang tanaman. Siapakah aku?",
+      "answer": "Tighnari",
+      "hints": [
+        "Aku adalah penjaga hutan dari Sumeru.",
+        "Elemanku adalah Dendro.",
+        "Aku cinta alam."
+      ],
+      "image": "/assets/images/tighnari.png"
+    },
+    {
+      "id": "77",
+      "difficulty": "Mudah",
+      "question": "Aku adalah seorang pengembara yang memiliki kemampuan untuk menggunakan berbagai elemen. Aku dikenal dengan petualanganku di berbagai wilayah Teyvat. Siapakah aku?",
+      "answer": "Traveler",
+      "hints": [
+        "Aku adalah seorang pengembara.",
+        "Aku bisa menggunakan berbagai elemen.",
+        "Aku suka berpetualang."
+      ],
+      "image": "/assets/images/traveler.png"
+    },
+    {
+      "id": "78",
+      "difficulty": "Mudah",
+      "question": "Aku adalah Anemo Archon dan pemimpin Mondstadt yang dikenal sebagai Barbatos. Aku dikenal dengan kecintaanku pada musik dan kebebasan. Siapakah aku?",
+      "answer": "Venti",
+      "hints": [
+        "Aku adalah Anemo Archon.",
+        "Aku pemimpin Mondstadt.",
+        "Elemanku adalah Anemo."
+      ],
+      "image": "/assets/images/venti.png"
+    },
+    {
+      "id": "79",
+      "difficulty": "Mudah",
+      "question": "Aku adalah seorang mantan Fatui Harbinger yang sekarang dikenal sebagai Wanderer. Aku menggunakan elemen Anemo dan dikenal dengan kebijaksanaanku yang luar biasa. Siapakah aku?",
+      "answer": "Wanderer",
+      "hints": [
+        "Aku adalah mantan Fatui Harbinger.",
+        "Elemanku adalah Anemo.",
+        "Aku memiliki kebijaksanaan yang luar biasa."
+      ],
+      "image": "/assets/images/wanderer.png"
+    },
+    {
+      "id": "80",
+      "difficulty": "Mudah",
+      "question": "Aku adalah seorang penjaga perdamaian dari Fontaine yang menggunakan elemen Hydro. Aku dikenal dengan keadilan dan kemampuanku dalam menegakkan hukum. Siapakah aku?",
+      "answer": "Wriothesley",
+      "hints": [
+        "Aku adalah penjaga perdamaian dari Fontaine.",
+        "Elemanku adalah Hydro.",
+        "Aku dikenal dengan keadilan."
+      ],
+      "image": "/assets/images/wriothesley.png"
+    },
+    
+        {
+          "id": "81",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang koki dari Liyue yang menggunakan elemen Pyro. Aku dikenal dengan masakan-masakanku yang lezat dan semangatku dalam memasak. Siapakah aku?",
+          "answer": "Xiangling",
+          "hints": [
+            "Aku adalah koki dari Liyue.",
+            "Elemanku adalah Pyro.",
+            "Aku dikenal dengan masakanku."
+          ],
+          "image": "/assets/images/xiangling.png"
+        },
+        {
+          "id": "82",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang pendekar pedang dari Liyue yang menggunakan elemen Cryo. Aku dikenal dengan kekuatan dan ketangkasanku dalam bertarung. Siapakah aku?",
+          "answer": "Xianyun",
+          "hints": [
+            "Aku adalah pendekar pedang dari Liyue.",
+            "Elemanku adalah Cryo.",
+            "Aku dikenal dengan kekuatanku."
+          ],
+          "image": "/assets/images/xianyun.png"
+        },
+        {
+          "id": "83",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang Adeptus yang tinggal di Jueyun Karst dan menggunakan elemen Anemo. Aku dikenal dengan kesetiaanku dalam melindungi Liyue. Siapakah aku?",
+          "answer": "Xiao",
+          "hints": [
+            "Aku adalah seorang Adeptus.",
+            "Elemanku adalah Anemo.",
+            "Aku tinggal di Jueyun Karst."
+          ],
+          "image": "/assets/images/xiao.png"
+        },
+        {
+          "id": "84",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang prajurit dari Natlan yang menggunakan elemen Geo. Aku dikenal dengan keberanianku dan kekuatanku dalam bertarung. Siapakah aku?",
+          "answer": "Xilonen",
+          "hints": [
+            "Aku adalah prajurit dari Natlan.",
+            "Elemanku adalah Geo.",
+            "Aku dikenal dengan keberanianku."
+          ],
+          "image": "/assets/images/xilonen.png"
+        },
+        {
+          "id": "85",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang bangsawan dari Liyue yang menggunakan elemen Hydro. Aku dikenal dengan kecintaanku pada sastra dan keterampilanku dalam bertarung dengan pedang. Siapakah aku?",
+          "answer": "Xingqiu",
+          "hints": [
+            "Aku adalah bangsawan dari Liyue.",
+            "Elemanku adalah Hydro.",
+            "Aku cinta sastra."
+          ],
+          "image": "/assets/images/xingqiu.png"
+        },
+        {
+          "id": "86",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang musisi rock dari Liyue yang menggunakan elemen Pyro. Aku dikenal dengan penampilanku yang energik dan semangatku dalam bermusik. Siapakah aku?",
+          "answer": "Xinyan",
+          "hints": [
+            "Aku adalah musisi rock dari Liyue.",
+            "Elemanku adalah Pyro.",
+            "Aku terkenal dengan penampilanku."
+          ],
+          "image": "/assets/images/xinyan.png"
+        },
+        {
+          "id": "87",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang Pendeta Agung dari Kuil Agung Narukami dan menggunakan elemen Electro. Aku dikenal dengan kecerdasanku dan kemampuan spiritualku. Siapakah aku?",
+          "answer": "Yae Miko",
+          "hints": [
+            "Aku adalah Pendeta Agung dari Kuil Agung Narukami.",
+            "Elemanku adalah Electro.",
+            "Aku dikenal dengan kecerdasanku."
+          ],
+          "image": "/assets/images/yae_miko.png"
+        },
+        {
+          "id": "88",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang pengacara dari Liyue yang menggunakan elemen Pyro. Aku dikenal dengan kecerdasanku dan kemampuan analisis hukumku. Siapakah aku?",
+          "answer": "Yanfei",
+          "hints": [
+            "Aku adalah pengacara dari Liyue.",
+            "Elemanku adalah Pyro.",
+            "Aku dikenal dengan kecerdasanku."
+          ],
+          "image": "/assets/images/yanfei.png"
+        },
+        {
+          "id": "89",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang anak dari Liyue yang menggunakan elemen Dendro. Aku dikenal dengan kepolosanku dan kemampuanku dalam mengendalikan elemen Dendro. Siapakah aku?",
+          "answer": "Yaoyao",
+          "hints": [
+            "Aku adalah anak dari Liyue.",
+            "Elemanku adalah Dendro.",
+            "Aku mahir mengendalikan elemen Dendro."
+          ],
+          "image": "/assets/images/yaoyao.png"
+        },
+        {
+          "id": "90",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang agen rahasia dari Liyue yang menggunakan elemen Hydro. Aku dikenal dengan keterampilanku dalam penyamaran dan kecerdasanku. Siapakah aku?",
+          "answer": "Yelan",
+          "hints": [
+            "Aku adalah agen rahasia dari Liyue.",
+            "Elemanku adalah Hydro.",
+            "Aku dikenal dengan keterampilanku dalam penyamaran."
+          ],
+          "image": "/assets/images/yelan.png"
+        },
+        {
+          "id": "91",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang pemilik toko kembang api dari Inazuma yang menggunakan elemen Pyro. Aku dikenal dengan semangatku dalam menciptakan kembang api yang indah. Siapakah aku?",
+          "answer": "Yoimiya",
+          "hints": [
+            "Aku adalah pemilik toko kembang api dari Inazuma.",
+            "Elemanku adalah Pyro.",
+            "Aku menciptakan kembang api yang indah."
+          ],
+          "image": "/assets/images/yoimiya.png"
+        },
+        {
+          "id": "92",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang penyanyi opera dari Liyue yang menggunakan elemen Geo. Aku dikenal dengan suara indahku dan kemampuanku dalam memimpin panggung. Siapakah aku?",
+          "answer": "Yun Jin",
+          "hints": [
+            "Aku adalah penyanyi opera dari Liyue.",
+            "Elemanku adalah Geo.",
+            "Aku dikenal dengan suara indahku."
+          ],
+          "image": "/assets/images/yun_jin.png"
+        },
+        {
+          "id": "93",
+          "difficulty": "Mudah",
+          "question": "Aku adalah seorang mantan Archon Geo dan konsultan dari Wangsheng Funeral Parlor yang menggunakan elemen Geo. Aku dikenal dengan kebijaksanaanku dan pengetahuanku yang mendalam tentang sejarah Teyvat. Siapakah aku?",
+          "answer": "Zhongli",
+          "hints": [
+            "Aku adalah mantan Archon Geo.",
+            "Elemanku adalah Geo.",
+            "Aku adalah konsultan dari Wangsheng Funeral Parlor."
+          ],
+          "image": "/assets/images/zhongli.png"
+        }
+      
+      
+  
+]
